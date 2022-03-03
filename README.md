@@ -1,4 +1,4 @@
-# Chat-hax---Roblox
+# Chat-hax---Roblox(use raw)
 --This script reveals ALL hidden messages in the default chat
 --chat "/spy" to toggle!
 enabled = true
